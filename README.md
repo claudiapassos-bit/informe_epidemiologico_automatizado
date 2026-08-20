@@ -1,0 +1,2 @@
+# informe_epidemiologico_automatizado
+Informes Epidemiológicos Automatizados para Vigilância de Arboviroses com RStudio
